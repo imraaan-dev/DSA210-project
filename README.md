@@ -10,7 +10,7 @@ But how correct is this way of thinking? Many of the leading figures in the fiel
 
 ## Project overview:
 
-The goal with this project is to log a few "sleep improving/inhibiting" habits and analyze their impact on my sleep quality metrics such as: light sleep, deep sleep, REM sleep etc, with the ultimate goal being to maximize the benefits of sleep.
+The goal with this project is to collect data on my sleep as well as log "sleep improving/inhibiting" habits and analyze their impact on my sleep quality metrics such as: light sleep, deep sleep, REM sleep etc, with the ultimate goal being to maximize the benefits of sleep.
 
 Here is a diagram illustrating the tracked data structure:
 
@@ -55,6 +55,6 @@ We will track the total amount as well as percentages of :
 2. **REM SLEEP.**
 3. **LIGHT/CORE sleep.**
 
-We will collect, export and analyze this data to see the imapact the tracked habits have on my slee quality.
+We will collect, export and analyze this data to see the imapact the tracked habits have on my sleep quality.
 
 
